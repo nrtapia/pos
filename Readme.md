@@ -20,6 +20,6 @@ The following guides illustrate how to use some features concretely:
 
 
 ### Swagger
-http://localhost:8585/swagger-ui.html
-https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api
+* http://localhost:8585/swagger-ui.html
+* https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api
 
